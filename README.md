@@ -9,7 +9,7 @@ Customize the behavior of the chatbot by adjusting various parameters
 Installation
 To use the AI chatbot, you will need to have Node.js and npm installed on your machine. Once you have installed these, you can clone the repository and install the dependencies by running the following commands:
 
-git clone https://github.com/uixaadi/aichatbot-chatgpt.git
+git clone ('repo adderess')
 cd aichatbot-chatgpt
 npm install
 Usage
